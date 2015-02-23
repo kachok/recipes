@@ -2,7 +2,7 @@
 of "cooking" kind
 
 ### Crepes
-![instagram](//pics/10729423_1599275110288106_1882810301_n.jpg)
+![instagram](/pics/10729423_1599275110288106_1882810301_n.jpg)
 
 - flour (2 cups)
 - milk (2 cups)
