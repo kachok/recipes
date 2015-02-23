@@ -2,21 +2,27 @@
 of "cooking" kind
 
 ### Crepes
+![instagram](//pics/10729423_1599275110288106_1882810301_n.jpg)
 
-- flour (1 cup)
-- milk (1 cup)
-- eggs (x3)
-- salt (1/2 teaspoon)
-- olive oil (1 tablespoon)
-- sugar (1 tablespoon)
-- water (1/4 cup)
+- flour (2 cups)
+- milk (2 cups)
+- eggs (x6)
+- salt (1 teaspoon)
+- olive oil (2 tablespoon)
+- baking soda (1 teaspoon)
+- sugar (2 tablespoon)
+- water (1/2 cup)
+- vinegar (1 teaspoon)
 
 #### result:
-not enough (~10 crepes)
+20 crepes
 
 #### beta:
-left front burner - 8
-right front burner - 8
+cooking time - 25 min
+
+left front burner - 8, right front burner - 8
+
+add oil, for pattern on the first side (or not for mono-crisp color)
 
 
 
