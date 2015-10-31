@@ -6,7 +6,7 @@ of "cooking" kind
 
 - flour (2 cups)
 - milk (2 cups)
-- eggs (x6)
+- eggs (x6 small)
 - salt (1 teaspoon)
 - olive oil (2 tablespoon)
 - baking soda (1 teaspoon)
