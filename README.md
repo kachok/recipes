@@ -24,6 +24,27 @@ left front burner - 8, right front burner - 8
 
 add oil, for pattern on the first side (or not for mono-crisp color)
 
+### Pancakes
+![instagram](/pics/12534655_484405111746961_2653412_n.jpg)
+
+- 1 cup all-purpose flour, (spooned and leveled)
+- 2 tablespoons sugar
+- 2 teaspoons baking powder
+- 1/2 teaspoon salt
+- 1 cup milk
+- 2 tablespoons unsalted butter, melted, or vegetable oil
+- 1 large egg
+- 1 tablespoon vegetable oil
+
+#### result:
+~8 pancakes
+
+#### beta:
+cooking time - 15 min
+
+right back burner - 7-8, right front burner - 7-8
+
+microwave butter for 45 seconds to melt, olive instead of veggie oil
 
 
 
