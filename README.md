@@ -47,4 +47,24 @@ right back burner - 7-8, right front burner - 7-8
 microwave butter for 45 seconds to melt, olive instead of veggie oil
 
 
+### Spaghetti Bolognese
+
+[original Whole Foods recipe](http://www.wholefoodsmarket.com/recipe/spaghetti-bolognese)
+
+- 3 table spoons virgin olive oil
+- 1/2 medium onion, thingly sliced and chopped
+- 1 large glove of garlic, thingly sliced and chopped
+- 1 baby carrot, thingly sliced and chopped
+- 1.2 lbs ground beef (85%)
+- 6oz can of tomato paste
+- 1/2 box of penne
+- salt/pepper as needed
+
+#### result:
+4-6 servings
+
+#### beta:
+cooking time - ? min
+saute veggies first, before ccoking ground beef
+add tomato paste at very end
 
