@@ -51,6 +51,8 @@ microwave butter for 45 seconds to melt, olive instead of veggie oil
 
 [original Whole Foods recipe](http://www.wholefoodsmarket.com/recipe/spaghetti-bolognese)
 
+![pic](/pics/spaghetti-bolognese.jpg)
+
 - 3 table spoons virgin olive oil
 - 1/2 medium onion, thingly sliced and chopped
 - 1 large glove of garlic, thingly sliced and chopped
