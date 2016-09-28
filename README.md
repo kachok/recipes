@@ -70,3 +70,28 @@ cooking time - ? min
 saute veggies first, before ccoking ground beef
 add tomato paste at very end
 
+### Thai Spicy Basil Chicken Fried Rice
+
+[original recipe](http://allrecipes.com/recipe/145572/thai-spicy-basil-chicken-fried-rice/)
+
+![pic](/pics/14033587_1767123723536695_740124134_n.jpg)
+
+- 1 and 1/2 tablespoons oyster sauce 
+- 1 tablespoon fish sauce 
+- 1/2 teaspoon white sugar 
+- 1 and 1/2 tablespoon coconut oil for frying 
+- 2 cups cooked jasmine rice, chilled 
+- 6 large cloves garlic clove, crushed 
+- 2 serrano peppers, crushed 
+- 2 poblano peppers, crushed 
+- 1 piece boneless, skinless chicken breast, cut into thin strips 
+- 1/3 red pepper, seeded and thinly sliced 
+- 1/2 onion, thinly sliced 
+- Thai basil, cucumber
+- salt/pepper as needed
+
+#### result:
+1-2 servings
+
+#### beta:
+cooking time - ? min
