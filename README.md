@@ -95,3 +95,8 @@ add tomato paste at very end
 
 #### beta:
 cooking time - ? min
+
+### Banana Walnut Bread
+
+[original recipe] (http://www.food.com/recipe/banana-nut-bread-for-the-bread-machine-96521#activity-feed)
+
