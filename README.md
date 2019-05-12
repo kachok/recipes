@@ -103,8 +103,9 @@ cooking time - ? min
 
 ### Pavlova Cake
 
-[original recipe] (https://www.allrecipes.com/recipe/12126/easy-pavlova/)
-[original recipe] (http://www.theboywhobakes.co.uk/recipes/2017/8/4/the-perfect-pavlova)
+[original recipe (first attempt, ingridients)] (https://www.allrecipes.com/recipe/12126/easy-pavlova/)
+
+[original recipe (third attempt, oven settings)] (http://www.theboywhobakes.co.uk/recipes/2017/8/4/the-perfect-pavlova)
 
 ![pic](/pics/pavlova-cake.jpg)
 
