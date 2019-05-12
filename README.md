@@ -2,7 +2,7 @@
 of "cooking" kind
 
 ### Crepes
-![instagram](/pics/10729423_1599275110288106_1882810301_n.jpg)
+![instagram](/pics/crepes.jpg)
 
 - flour (2 cups)
 - milk (2 cups)
@@ -25,7 +25,7 @@ left front burner - 8, right front burner - 8
 add oil, for pattern on the first side (or not for mono-crisp color)
 
 ### Pancakes
-![instagram](/pics/12534655_484405111746961_2653412_n.jpg)
+![instagram](/pics/pancakes.jpg)
 
 - 1 cup all-purpose flour, (spooned and leveled)
 - 2 tablespoons sugar
@@ -74,7 +74,7 @@ add tomato paste at very end
 
 [original recipe](http://allrecipes.com/recipe/145572/thai-spicy-basil-chicken-fried-rice/)
 
-![pic](/pics/14033587_1767123723536695_740124134_n.jpg)
+![pic](/pics/thai-spicy-basil-chicken -fried-rice.jpg.jpg)
 
 - 1 and 1/2 tablespoons oyster sauce 
 - 1 tablespoon fish sauce 
