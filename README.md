@@ -100,3 +100,49 @@ cooking time - ? min
 
 [original recipe] (http://www.food.com/recipe/banana-nut-bread-for-the-bread-machine-96521#activity-feed)
 
+
+### Pavlova Cake
+
+[original recipe] (https://www.allrecipes.com/recipe/12126/easy-pavlova/)
+[original recipe] (http://www.theboywhobakes.co.uk/recipes/2017/8/4/the-perfect-pavlova)
+
+![pic](/pics/pavlova_cake.jpg)
+
+_Cake_
+
+- 6 large egg whites
+- 1 cup sugar
+- 2 tsp lemon juice
+- 2 tsp cornstarch
+- 1 tsp vanilla extract
+
+_Topping_
+
+- 1 pint heavy cream
+- kiwi and/or raspberries
+
+#### result:
+
+One 9-10 inch cake
+
+#### beta:
+
+use [egg separator](https://www.amazon.com/gp/product/B07KKMMQJJ/) to get egg whites
+
+eggs should be room temperature before beating them into meringue
+
+only use metal or glass bowl (plastic always has fats/oils on it so it wont work)
+
+wipe bowl with a slice of lemon
+
+beat eggs whites by hand with a whisk (~20 min) with a mixer (~10 min) until it foamy but still not holding the shape
+
+start adding sugar by the spoon, it needs to dissolve completely
+
+add cornstarch, vanilla extract and lemon
+
+whisk until "peaks formed" e.g. when you remove whisk from it, shape of peak where shisk was is holding 
+
+preheat oven to 300 degrees fahrenheit (150 celsius), bake for 10 min, then lower oven temperature to 100 degrees fahrenheit (90 celsius), bake for 90 min. Rurn oven off let it cool in the oven (may open the door a bit).
+
+whip heavy cream and put it on cake with kiwi slices/ raspberries. This [turntable](https://www.amazon.com/gp/product/B01N2YMMIG/) makes it super easy to apply whipped cream.
