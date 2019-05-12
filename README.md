@@ -74,7 +74,7 @@ add tomato paste at very end
 
 [original recipe](http://allrecipes.com/recipe/145572/thai-spicy-basil-chicken-fried-rice/)
 
-![pic](/pics/thai-spicy-basil-chicken -fried-rice.jpg.jpg)
+![pic](/pics/thai-spicy-basil-chicken-fried-rice.jpg.jpg)
 
 - 1 and 1/2 tablespoons oyster sauce 
 - 1 tablespoon fish sauce 
@@ -106,7 +106,7 @@ cooking time - ? min
 [original recipe] (https://www.allrecipes.com/recipe/12126/easy-pavlova/)
 [original recipe] (http://www.theboywhobakes.co.uk/recipes/2017/8/4/the-perfect-pavlova)
 
-![pic](/pics/pavlova_cake.jpg)
+![pic](/pics/pavlova-cake.jpg)
 
 _Cake_
 
