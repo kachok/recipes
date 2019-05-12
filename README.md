@@ -144,6 +144,6 @@ add cornstarch, vanilla extract and lemon
 
 whisk until "peaks formed" e.g. when you remove whisk from it, shape of peak where shisk was is holding 
 
-preheat oven to 300 degrees fahrenheit (150 celsius), bake for 10 min, then lower oven temperature to 100 degrees fahrenheit (90 celsius), bake for 90 min. Rurn oven off let it cool in the oven (may open the door a bit).
+preheat oven to 275 degrees fahrenheit (130 celsius), bake for 10 min, then lower oven temperature to 200 degrees fahrenheit (90 celsius), bake for 90 min. Rurn oven off let it cool in the oven (may open the door a bit).
 
 whip heavy cream and put it on cake with kiwi slices/ raspberries. This [turntable](https://www.amazon.com/gp/product/B01N2YMMIG/) makes it super easy to apply whipped cream.
