@@ -74,7 +74,7 @@ add tomato paste at very end
 
 [original recipe](http://allrecipes.com/recipe/145572/thai-spicy-basil-chicken-fried-rice/)
 
-![pic](/pics/thai-spicy-basil-chicken-fried-rice.jpg.jpg)
+![pic](/pics/thai-spicy-basil-chicken-fried-rice.jpg)
 
 - 1 and 1/2 tablespoons oyster sauce 
 - 1 tablespoon fish sauce 
