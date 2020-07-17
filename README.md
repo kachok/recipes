@@ -96,9 +96,35 @@ add tomato paste at very end
 #### beta:
 cooking time - ? min
 
-### Banana Walnut Bread
+### Banana Walnut Bread (bread machine)
 
 [original recipe] (http://www.food.com/recipe/banana-nut-bread-for-the-bread-machine-96521#activity-feed)
+
+
+### Banana Walnut Bread 
+
+[original recipe] (https://www.allrecipes.com/recipe/20144/banana-banana-bread/)
+
+![pic](/pics/bananabread.jpg)
+
+- 4 cups all-purpose flour
+- 2 teaspoon baking soda
+- 1/2 teaspoon salt
+- 1 cup butter
+- 1 cup white sugar
+- 4 jumbo eggs
+- 1/4-1/2 cup of milk
+- lot of bananas (5-6)
+
+#### process
+
+Preheat oven to 350 degrees F
+
+Combine flour, baking soda and salt. In other bowl combine butter and sugar. Mix eggs and mashed bananas.
+
+Stir banana mixture into flour mixture.
+
+Bake for 60-75 min.
 
 
 ### Pavlova Cake
