@@ -193,3 +193,11 @@ or
 - 1 tea spoon salt
 - 1 cup flour
 - 1 tea spoon baking soda
+
+### French baguette with crust
+
+[original recipe] (
+https://www.edimdoma.ru/retsepty/79104-frantsuzskiy-baget-s-hrustyaschey-korochkoy)
+
+![pic](/pics/baguette.jpg)
+
