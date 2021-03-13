@@ -173,3 +173,23 @@ whisk until "peaks formed" e.g. when you remove whisk from it, shape of peak whe
 preheat oven to 275 degrees fahrenheit (130 celsius), bake for 10 min, then lower oven temperature to 200 degrees fahrenheit (90 celsius), bake for 90 min. Rurn oven off let it cool in the oven (may open the door a bit).
 
 whip heavy cream and put it on cake with kiwi slices/ raspberries. This [turntable](https://www.amazon.com/gp/product/B01N2YMMIG/) makes it super easy to apply whipped cream.
+
+
+### Pancakes on Kefir
+
+![pic](/pics/kefir-pancakes.jpg)
+
+- 1/2 liter kefir
+- 3 table spoon sugar
+- 1 tea spoon salt
+- 2 cups flour
+- 1 tea spoon baking soda
+
+or
+
+- 2 cups kefir
+- 3 table spoon sugar
+- 2 table spoon olive oil
+- 1 tea spoon salt
+- 1 cup flour
+- 1 tea spoon baking soda
