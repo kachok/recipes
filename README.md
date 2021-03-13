@@ -201,3 +201,10 @@ https://www.edimdoma.ru/retsepty/79104-frantsuzskiy-baget-s-hrustyaschey-korochk
 
 ![pic](/pics/baguette.jpg)
 
+
+### Bread
+
+[original recipe] (
+https://www.jennycancook.com/recipes/faster-no-knead-bread/
+
+![pic](/pics/bread.jpg)
